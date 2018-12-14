@@ -17,5 +17,9 @@ git add -A
 REM tambien en la fecha se puede usar el %date%
 :: git commit -m "[%gituser%] [%datestr%] %commit% "
 call npm version patch -f
-call vsce publish -p llrvmuxop5vacancbzm5eguvzhwydl5o5stblitvyvklvlaiqnla
+FOR /F "tokens=* USEBACKQ" %%F IN (`jq -r ".token" "token.json"`) DO (
+SET var=%%F
+)
+ECHO 
+call vsce publish -p %var%
 ::git push origin master
