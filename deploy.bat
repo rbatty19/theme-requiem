@@ -22,4 +22,4 @@ SET var=%%F
 )
 ECHO 
 call vsce publish -p %var%
-::git push origin master
+git push origin master
