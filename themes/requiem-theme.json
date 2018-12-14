@@ -420,8 +420,7 @@
 		},
 		{
 			"name": "Types declaration and references",
-			"scope": [
-				"storage.type.variable.cs",
+			"scope": [		
 				"storage.type.primitive.java",
 				"storage.type.java",
 				"storage.modifier.package.java",
@@ -429,6 +428,15 @@
 			],
 			"settings": {
 				"foreground": "#64edff"
+			}
+		},
+		{
+			"name": "Types declaration and references",
+			"scope": [
+				"storage.type.variable.cs",				
+			],
+			"settings": {
+				"foreground": "#e4a229"
 			}
 		},
 		{
