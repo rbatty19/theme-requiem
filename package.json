@@ -1,0 +1,24 @@
+{
+    "name": "requiem",
+    "version": "0.2.16",
+    "description": "",
+    "categories": [
+        "Themes"
+    ],
+    "license": "MIT",
+    "publisher": "rober19",
+    "icon": "logo.ico",
+    "engines": {
+        "vscode": "*"
+    },
+    "repository": "https://github.com/Rober19/theme-requiem.git",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Requiem (rober19)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/requiem-theme.json"
+            }
+        ]
+    }
+}
