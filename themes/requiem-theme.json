@@ -74,7 +74,7 @@
 			"name": "Variable start",
 			"scope": "punctuation.definition.variable",
 			"settings": {
-				"foreground": "#4AB2EE"
+				"foreground": "#83cd29"
 			}
 		},
 		{
