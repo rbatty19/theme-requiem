@@ -20,7 +20,7 @@ call npm version patch -f
 FOR /F "tokens=* USEBACKQ" %%F IN (`jq -r ".token" "token.json"`) DO (
 SET var=%%F
 )
-ECHO 
 call vsce publish -p %var%
+call vsce publish
 git push ops master
 git push origin master
