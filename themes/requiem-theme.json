@@ -69,12 +69,12 @@
 			"settings": {
 				"foreground": "#83cd29"
 			}
-		},
-		{
+		},		
+		{// $ %%
 			"name": "Variable start",
 			"scope": "punctuation.definition.variable",
 			"settings": {
-				"foreground": "#83cd29"
+				"foreground": "#293DF2"
 			}
 		},
 		{
