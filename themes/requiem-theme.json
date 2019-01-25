@@ -71,6 +71,13 @@
 			}
 		},
 		{
+			"name": "Variable start",
+			"scope": "punctuation.definition.variable",
+			"settings": {
+				"foreground": "#4AB2EE"
+			}
+		},
+		{
 			//clases o atributos
 			"scope": "entity.other.attribute-name",
 			"settings": {
