@@ -1,11 +1,11 @@
 ## REQUIEM 
 <img src="https://image.ibb.co/dyQa55/logo.png" alt="200" width="200" style="">
 
-[![NPM](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Rober19/var-snippet)
+
 [![NPM](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)](https://github.com/Rober19/var-snippet)
 [![NPM](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36.svg)](https://marketplace.visualstudio.com/items?itemName=rober19.requiem)
 [![NPM](https://img.shields.io/badge/licence-MIT-brightgreen.svg)](https://github.com/Rober19/var-snippet)
-[![NPM](https://img.shields.io/badge/Downloads-350-blue.svg)](https://marketplace.visualstudio.com/items?itemName=rober19.requiem)
+[![NPM](https://img.shields.io/badge/Downloads-+500-blue.svg)](https://marketplace.visualstudio.com/items?itemName=rober19.requiem)
 
 
 
