@@ -242,7 +242,7 @@
 		{ // public class - java
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#3EC4EB"		
+				"foreground": "#3eebce"	//3EC4EB	
 			}
 		},
 		{
