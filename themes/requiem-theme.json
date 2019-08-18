@@ -11,8 +11,7 @@
 		{
 			"scope": "strong",
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#55dfaacc"
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -500,7 +499,8 @@
 			],
 			//1B
 			"settings": {
-				"foreground": "#1b73ba",
+				// "foreground": "#1b73ba",
+				"foreground": "#2bf8ff",
 				"fontStyle": "bold"
 			}
 		},

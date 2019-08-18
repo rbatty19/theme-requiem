@@ -21,6 +21,6 @@ FOR /F "tokens=* USEBACKQ" %%F IN (`jq -r ".token" "token.json"`) DO (
 	SET var=%%F
 	)
 call vsce publish -p %var%
-call vsce publish
+REM call vsce publish
 git push ops master
 git push origin master

@@ -5,7 +5,7 @@
 [![NPM](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen.svg?style=flat-square)](https://github.com/Rober19/var-snippet)
 [![NPM](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=rober19.requiem)
 [![NPM](https://img.shields.io/badge/licence-MIT-brightgreen.svg?style=flat-square)](https://github.com/Rober19/var-snippet)
-[![NPM](https://img.shields.io/badge/Downloads-+500-blue.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=rober19.requiem)
+[![NPM](https://img.shields.io/badge/Downloads-+720-blue.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=rober19.requiem)
 
 
 
