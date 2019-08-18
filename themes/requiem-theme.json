@@ -11,7 +11,8 @@
 		{
 			"scope": "strong",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": "bold",
+				"foreground": "#55dfaacc"
 			}
 		},
 		{

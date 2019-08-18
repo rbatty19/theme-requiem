@@ -1,13 +1,13 @@
 {
     "name": "requiem",
-    "version": "0.2.30",
+    "version": "0.2.31",
     "description": "",
     "categories": [
         "Themes"
     ],
     "license": "MIT",
     "publisher": "rober19",
-    "icon": "logo.ico",
+    "icon": "public/logo.ico",
     "engines": {
         "vscode": "*"
     },

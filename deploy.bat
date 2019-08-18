@@ -4,8 +4,8 @@ git status
 MD tempF1
 CD tempF1
 for /F "usebackq tokens=1" %%A IN (`git config user.name`) do (
-  set gituser=%%A
-)
+	set gituser=%%A
+	)
 echo  ^<-- GIT User> "%gituser%"
 findstr /A:0a /S "<--" "%gituser%" 
 cd..
@@ -18,8 +18,8 @@ REM tambien en la fecha se puede usar el %date%
 :: git commit -m "[%gituser%] [%datestr%] %commit% "
 call npm version patch -f
 FOR /F "tokens=* USEBACKQ" %%F IN (`jq -r ".token" "token.json"`) DO (
-SET var=%%F
-)
+	SET var=%%F
+	)
 call vsce publish -p %var%
 call vsce publish
 git push ops master
