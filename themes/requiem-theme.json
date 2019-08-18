@@ -501,7 +501,7 @@
 			"settings": {
 				// "foreground": "#1b73ba",
 				"foreground": "#2bf8ff",
-				"fontStyle": "bold"
+				// "fontStyle": "bold"
 			}
 		},
 		{
