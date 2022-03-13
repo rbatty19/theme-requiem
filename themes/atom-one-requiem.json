@@ -2145,6 +2145,16 @@
 			}
 		},
 		{
+			"scope": [
+				"meta.function-call.generic.python",
+				"support.type.python"
+			],
+			"settings": {
+				"foreground": "#51B1FF",
+				"fontStyle": "normal"
+			}
+		},
+		{
 			"scope": "entity.name.variable.field.cs",
 			"settings": {
 				"foreground": "#E06C75"
