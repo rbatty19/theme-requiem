@@ -1,6 +1,6 @@
 {
     "name": "requiem",
-    "version": "0.2.39",
+    "version": "0.2.41",
     "description": "",
     "categories": [
         "Themes"
@@ -18,6 +18,16 @@
                 "label": "Requiem (rober19)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/requiem-theme.json"
+            },
+            {
+                "label": "Requiem Atom One (rober19)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/atom-one-requiem.json"
+            },            
+            {
+                "label": "Requiem Atom One Darker (rober19)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/atom-one-darker-requiem.json"
             }
         ]
     }
