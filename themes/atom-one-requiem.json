@@ -2135,22 +2135,12 @@
 				"foreground": "#ABB2BF"
 			}
 		},
-    {
-			"scope": [
-				"meta.function.decorator.python"
-			],
-			"settings": {
-				"foreground": "#56B6C2",
-				"fontStyle": "normal"
-			}
-		},
 		{
 			"scope": [
-				"meta.function-call.generic.python",
-				"support.type.python"
+				"meta.function-call.generic.python"
 			],
 			"settings": {
-				"foreground": "#51B1FF",
+				"foreground": "#61AFEF",
 				"fontStyle": "normal"
 			}
 		},
